@@ -1,0 +1,9 @@
+J:\scripts\onion\wantlist\1-Domain\WantList.Domain.Objects\bin\Debug\netstandard2.0\WantList.Domain.Objects.deps.json
+J:\scripts\onion\wantlist\1-Domain\WantList.Domain.Objects\bin\Debug\netstandard2.0\WantList.Domain.Objects.dll
+J:\scripts\onion\wantlist\1-Domain\WantList.Domain.Objects\bin\Debug\netstandard2.0\WantList.Domain.Objects.pdb
+J:\scripts\onion\wantlist\1-Domain\WantList.Domain.Objects\obj\Debug\netstandard2.0\WantList.Domain.Objects.csprojAssemblyReference.cache
+J:\scripts\onion\wantlist\1-Domain\WantList.Domain.Objects\obj\Debug\netstandard2.0\WantList.Domain.Objects.csproj.CoreCompileInputs.cache
+J:\scripts\onion\wantlist\1-Domain\WantList.Domain.Objects\obj\Debug\netstandard2.0\WantList.Domain.Objects.AssemblyInfoInputs.cache
+J:\scripts\onion\wantlist\1-Domain\WantList.Domain.Objects\obj\Debug\netstandard2.0\WantList.Domain.Objects.AssemblyInfo.cs
+J:\scripts\onion\wantlist\1-Domain\WantList.Domain.Objects\obj\Debug\netstandard2.0\WantList.Domain.Objects.dll
+J:\scripts\onion\wantlist\1-Domain\WantList.Domain.Objects\obj\Debug\netstandard2.0\WantList.Domain.Objects.pdb

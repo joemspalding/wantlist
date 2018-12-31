@@ -1,0 +1,11 @@
+{
+  "name": "wantlist",
+  "version": "1.0.0",
+  "description": "Just a stupid app that tracks my wants and things because screw websites having wishlists",
+  "scripts": {
+    "start": "dotnet run --project ./4-UI/WantList.UI.WebApi/WantList.UI.WebApi.csproj"
+  },
+  "keywords": [],
+  "author": "joemspalding",
+  "license": "ISC"
+}
